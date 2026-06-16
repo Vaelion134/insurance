@@ -181,14 +181,14 @@ ul{
 }
 .info > p{
     display: flex;
-    font-size: 25px;
+    font-size: 20px;
     text-align: justify;
     line-height: 1.2;
 }
 .text{
     text-align: justify;
     margin-left: 25px;
-    font-size: 25px;
+    font-size: 28px;
     line-height: 1.4;
 }
 .info > img{
@@ -198,14 +198,14 @@ ul{
 
 }
 .advant{
-    font-size: 28px;
+    font-size: 20px;
 }
 .advant > ul{
     line-height:1.9;
     margin-left: 40px;
 }
 .ach{
-    font-size: 28px;
+    font-size: 20px;
     line-height: 2;  
 }
 h3{
